@@ -1,0 +1,16 @@
+{
+  "dois": [
+    "10.1038/nphys1170",
+    "https://doi.org/10.1038/NPHYS1170",
+    "doi:10.1038/nature14539",
+    "https://dx.doi.org/10.1145/3065386",
+    "10.1056/NEJMoa2034577",
+    "10.1103/PhysRevLett.116.061102",
+    "10.1016/j.cell.2011.02.013",
+    "10.48550/arXiv.1706.03762",
+    "10.1234/this-doi-does-not-exist-2026",
+    "Measured measurement, Nature Physics 2009"
+  ],
+  "includeAuthors": false,
+  "maxItems": 100
+}

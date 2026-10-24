@@ -1,0 +1,23 @@
+{
+  "inputCount": 10,
+  "uniqueValidDois": 8,
+  "duplicateCount": 1,
+  "emittedCount": 6,
+  "errors": [
+    {
+      "inputIndex": 9,
+      "code": "invalid_doi"
+    },
+    {
+      "inputIndex": 7,
+      "code": "not_found"
+    },
+    {
+      "inputIndex": 8,
+      "code": "not_found"
+    }
+  ],
+  "deferredDois": [],
+  "stopReason": "completed",
+  "paymentsVerified": false
+}
